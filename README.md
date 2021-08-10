@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/harsh204016/Hackathon-and-Competitions.svg)](http://hits.dwyl.io/harsh204016/Hackathon-and-Competitions)
+
 # Hackathon-and-Competitions
 This repo contains all the codes and approaches used in the hackathons and competitions
 
